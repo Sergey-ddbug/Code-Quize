@@ -1,0 +1,19 @@
+#content {
+  text-align: center;
+}
+#welcome {
+  margin: 0 auto;
+}
+#quiz {
+  display: none;
+}
+#finish {
+  display: none;
+}
+.option {
+  padding: 4px;
+  background-color: rgb(216, 203, 205);
+  width: ;
+  margin: 10px auto;
+  
+}
